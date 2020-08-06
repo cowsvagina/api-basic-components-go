@@ -1,1 +1,1 @@
-# api-basic-components-go
+# app-components-go
